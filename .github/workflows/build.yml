@@ -1,22 +1,38 @@
-name: Build
+name: Build and Publish
 
 on:
   push:
-  pull_request:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: read
+  id-token: write
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-dotnet@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 10.0.x
+          dotnet-version: '10.0.x'
 
-      - run: dotnet restore
+      - name: Restore
+        run: dotnet restore
 
-      - run: dotnet build
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
 
-      - run: dotnet test
+      - name: Test
+        run: dotnet test --configuration Release --no-build
+
+      - name: Pack
+        run: dotnet pack src/Dixor.Identity/Dixor.Identity.csproj --configuration Release --no-build
+
+      - name: Publish to NuGet
+        run: dotnet nuget push src/Dixor.Identity/bin/Release/*.nupkg --source https://api.nuget.org/v3/index.json --skip-duplicate
