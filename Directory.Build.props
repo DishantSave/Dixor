@@ -1,0 +1,17 @@
+<Project>
+	<PropertyGroup>
+		<Version>0.1.0</Version>
+
+		<Authors>Dishant Prashant Save</Authors>
+
+		<Company>Dixor</Company>
+
+		<Nullable>enable</Nullable>
+
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+		<TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+	</PropertyGroup>
+</Project>

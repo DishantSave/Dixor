@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+
+		<PackageId>Dixor.Identity</PackageId>
+		<Title>Dixor Identity</Title>
+
+		<Description>
+			UUIDv7, Sequential GUID, ULID and SQL optimized identifiers.
+		</Description>
+
+		<PackageTags>
+			guid;uuidv7;ulid;identity;sequential-guid
+		</PackageTags>
+
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+		<RepositoryUrl>
+			https://github.com/YOUR_GITHUB_USERNAME/Dixor
+		</RepositoryUrl>
+
+		<PackageProjectUrl>
+			https://github.com/YOUR_GITHUB_USERNAME/Dixor
+		</PackageProjectUrl>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\..\README.md"
+			  Pack="true"
+			  PackagePath="\" />
+	</ItemGroup>
+</Project>
