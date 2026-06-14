@@ -35,4 +35,4 @@ jobs:
         run: dotnet pack src/Dixor.Identity/Dixor.Identity.csproj --configuration Release --no-build
 
       - name: Publish to NuGet
-        run: dotnet nuget push src/Dixor.Identity/bin/Release/*.nupkg --source https://api.nuget.org/v3/index.json --skip-duplicate
+        run: dotnet nuget push src/Dixor.Identity/bin/Release/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --skip-duplicate
