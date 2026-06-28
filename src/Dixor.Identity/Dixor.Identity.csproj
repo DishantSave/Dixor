@@ -5,7 +5,7 @@
 
 		<!-- Package Information -->
 		<PackageId>Dixor.Identity</PackageId>
-		<Version>0.1.2</Version>
+		<Version>0.1.3</Version>
 
 		<Title>Dixor.Identity</Title>
 
@@ -84,13 +84,20 @@
 
 		<None Include="..\..\assets\icon.png" Pack="true" PackagePath="\" />
 
-		<None Include="..\..\analyzers\Dixor.Identity.Analyzers\bin\$(Configuration)\netstandard2.0\Dixor.Identity.Analyzers.dll" Pack="true" PackagePath="analyzers/dotnet/cs" />
+		<None Include="..\..\analyzers\Dixor.Identity.Analyzers\bin\$(Configuration)\netstandard2.0\Dixor.Identity.Analyzers.dll"
+			  Pack="true"
+			  PackagePath="analyzers/dotnet/cs" />
 
 		<None Include="..\..\docs\**\*.md" Pack="true" PackagePath="docs/%(RecursiveDir)" />
 
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\..\analyzers\Dixor.Identity.Analyzers\Dixor.Identity.Analyzers.csproj" />
+		<ProjectReference Include="..\..\analyzers\Dixor.Identity.Analyzers\Dixor.Identity.Analyzers.csproj"
+					OutputItemType="Analyzer"
+					ReferenceOutputAssembly="false"
+					PrivateAssets="all">
+			<IncludeAssets>analyzers</IncludeAssets>
+		</ProjectReference>
 	</ItemGroup>
 
 </Project>

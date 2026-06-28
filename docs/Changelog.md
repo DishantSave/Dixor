@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.1.3] - 2026-06-28
+
+### Fixed
+
+#### Packaging
+
+- Fixed NuGet package installation failure caused by an unintended dependency on `Dixor.Identity.Analyzers`.
+- Embedded Roslyn analyzers directly into the package instead of exposing them as a package dependency.
+- Fixed analyzer packaging behavior for all supported target frameworks.
+
+#### Build
+
+- Improved analyzer integration during package generation.
+- Improved package reliability across Visual Studio, Rider and CLI installations.
+
+### Changed
+
+- Updated package metadata and distribution configuration.
+- Improved overall installation experience.
+
+---
+
 ## [0.1.2] - 2026-06-28
 
 ### Added

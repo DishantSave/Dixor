@@ -389,7 +389,7 @@ The documentation is organized hierarchically.
 Current version:
 
 ```text
-v0.1.1
+v0.1.3
 ```
 
 Planned future additions:
