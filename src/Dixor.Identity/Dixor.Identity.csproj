@@ -3,21 +3,31 @@
 	<PropertyGroup>
 		<TargetFramework>net10.0</TargetFramework>
 
+		<!-- Package Information -->
 		<PackageId>Dixor.Identity</PackageId>
-		<Title>Dixor Identity</Title>
+		<Version>0.1.1</Version>
+
+		<Title>Dixor.Identity</Title>
+
+		<Authors>Dishant Prashant Save</Authors>
+		<Company>Dixor</Company>
 
 		<Description>
-			UUIDv7, Sequential GUID, ULID and SQL optimized identifiers.
+			Modern RFC 9562 UUIDv7 generation library for .NET with monotonic identifiers, parsing, validation, timestamp extraction, formatting utilities, and built-in Roslyn analyzers.
 		</Description>
 
 		<PackageTags>
-			guid;uuidv7;ulid;identity;sequential-guid
+			uuid;uuidv7;guid;identity;sequential-guid;
+			rfc9562;ulid;distributed-systems;
+			roslyn-analyzer;sql-server;postgresql
 		</PackageTags>
 
+		<!-- Build -->
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 
+		<!-- NuGet Metadata -->
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 
 		<RepositoryUrl>
@@ -35,26 +45,64 @@
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 
 		<PackageReleaseNotes>
-			Initial release of Dixor.Identity.
+			Initial public release.
 
 			Features:
-			- UUIDv7 generation
-			- Unit tests
-			- XML documentation
-			- NuGet package metadata
+			- RFC 9562 UUIDv7 generation
+			- Monotonic UUIDv7 generation
+			- Batch generation
+			- UUID parsing
+			- UUID validation
+			- Timestamp extraction
+			- Formatting utilities
+			- Roslyn analyzers
+			- Comprehensive documentation
 		</PackageReleaseNotes>
 
-		<Copyright>Copyright © Dishant Save</Copyright>
+		<Copyright>
+			Copyright © Dishant Save
+		</Copyright>
+
+		<!-- Source & Symbols -->
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+
+		<!-- Optional but highly recommended -->
+		<EmbedUntrackedSources>true</EmbedUntrackedSources>
+
+		<Deterministic>true</Deterministic>
 	</PropertyGroup>
 
+	<!-- Analyzer Project -->
 	<ItemGroup>
+		<ProjectReference
+            Include="..\..\Dixor.Identity.Analyzers\Dixor.Identity.Analyzers.csproj"
+            PrivateAssets="all"
+            ReferenceOutputAssembly="false"
+            OutputItemType="Analyzer" />
+	</ItemGroup>
+
+	<!-- Package Files -->
+	<ItemGroup>
+
 		<None Include="..\..\README.md"
-			  Pack="true"
-			  PackagePath="\" />
+              Pack="true"
+              PackagePath="\" />
 
 		<None Include="..\..\assets\icon.png"
+              Pack="true"
+              PackagePath="\" />
+
+		<None Include="..\..\Dixor.Identity.Analyzers\bin\$(Configuration)\netstandard2.0\Dixor.Identity.Analyzers.dll"
+              Pack="true"
+              PackagePath="analyzers/dotnet/cs" />
+
+		<None Include="..\..\docs\**\*.md"
 			  Pack="true"
-			  PackagePath="\" />
+			  PackagePath="docs/%(RecursiveDir)" />
+
 	</ItemGroup>
 
 </Project>

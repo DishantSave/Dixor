@@ -1,12 +1,50 @@
 <Solution>
   <Folder Name="/.github/" />
   <Folder Name="/.github/workflows/">
-    <File Path="build.yml" />
+    <File Path=".github/workflows/build.yml" />
+  </Folder>
+  <Folder Name="/analyzers/">
+    <Project Path="Dixor.Identity.Analyzers/Dixor.Identity.Analyzers.csproj" Id="7dc5aa19-421a-40f9-bcf2-9e539c13cb80" />
   </Folder>
   <Folder Name="/docs/">
     <File Path="docs/Architecture.md" />
     <File Path="docs/Changelog.md" />
     <File Path="docs/Roadmap.md" />
+  </Folder>
+  <Folder Name="/docs/analyzers/">
+    <File Path="Analyzers_Overview.md" />
+    <File Path="DIXOR001.md" />
+    <File Path="DIXOR002.md" />
+    <File Path="DIXOR003.md" />
+    <File Path="DIXOR010.md" />
+    <File Path="SuppressingDiagnostics.md" />
+  </Folder>
+  <Folder Name="/docs/examples/">
+    <File Path="BasicUsageExamples.md" />
+    <File Path="BatchGenerationExamples.md" />
+    <File Path="SequentialIdentifiersExamples.md" />
+  </Folder>
+  <Folder Name="/docs/getting-started/">
+    <File Path="FirstUuid.md" />
+    <File Path="Installation.md" />
+    <File Path="MigrationGuide.md" />
+    <File Path="QuickStart.md" />
+  </Folder>
+  <Folder Name="/docs/internals/">
+    <File Path="ByteLayout.md" />
+    <File Path="DesignDecisions.md" />
+    <File Path="Uuid7Specification.md" />
+  </Folder>
+  <Folder Name="/docs/uuid7/">
+    <File Path="UUID7_BatchGeneration.md" />
+    <File Path="UUID7_BestPractices.md" />
+    <File Path="UUID7_Formatting.md" />
+    <File Path="UUID7_Generation.md" />
+    <File Path="UUID7_MonotonicGeneration.md" />
+    <File Path="UUID7_Overview.md" />
+    <File Path="UUID7_Parsing.md" />
+    <File Path="UUID7_TimestampExtraction.md" />
+    <File Path="UUID7_Validation.md" />
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
