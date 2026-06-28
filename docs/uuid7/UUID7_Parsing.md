@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -705,14 +705,14 @@ The parser is designed to make UUID extraction simple, fast, and reliable across
 
 # Related Documentation
 
-* [Validation](./UUID7_Validation.md)
-* [Timestamp Extraction](./UUID7_TimestampExtraction.md)
-* [Generation](./UUID7_Generation.md)
+* [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
+* [Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Validation](./UUID7_Validation.md)
+⬅ Previous: [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
 
-➡ Next: [Timestamp Extraction](./UUID7_TimestampExtraction.md)
+➡ Next: [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)

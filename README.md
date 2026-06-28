@@ -1,17 +1,5 @@
 # Dixor.Identity
 
-<p align="center">
-  <img src="icon.png" alt="Dixor.Identity Logo" width="180"/>
-</p>
-
-<h1 align="center">Dixor.Identity</h1>
-
-<p align="center">
-Modern identity generation library for .NET powered by RFC 9562 UUID version 7.
-</p>
-
-<p align="center">
-
 ![NuGet Version](https://img.shields.io/nuget/v/Dixor.Identity)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Dixor.Identity)
 ![License](https://img.shields.io/github/license/Dixor/Dixor.Identity)
@@ -453,38 +441,58 @@ Built with ❤️ for modern .NET applications.
 
 ## Documentation Navigation
 
-### Getting Started
+## Getting Started
 
-- [Installation](docs/getting-started/Installation.md)
-- [Quick Start](docs/getting-started/QuickStart.md)
-- [First UUID](docs/getting-started/FirstUuid.md)
-- [Migration Guide](docs/getting-started/MigrationGuide.md)
+* [Installation](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
+* [First UUID](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/FirstUuid.md)
+* [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
+* [Migration Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/MigrationGuide.md)
+
+---
 
 ### UUIDv7
 
-- [Overview](docs/uuid7/UUID7_Overview.md)
-- [Generation](docs/uuid7/UUID7_Generation.md)
-- [Monotonic Generation](docs/uuid7/UUID7_MonotonicGeneration.md)
-- [Batch Generation](docs/uuid7/UUID7_BatchGeneration.md)
-- [Formatting](docs/uuid7/UUID7_Formatting.md)
-- [Parsing](docs/uuid7/UUID7_Parsing.md)
-- [Timestamp Extraction](docs/uuid7/UUID7_TimestampExtraction.md)
-- [Validation](docs/uuid7/UUID7_Validation.md)
-- [Best Practices](docs/uuid7/UUID7_BestPractices.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)
+* [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
+* [Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
+
+---
 
 ### Analyzers
 
-- [Overview](docs/analyzers/Analyzers_Overview.md)
-- [Suppressing Diagnostics](docs/analyzers/SuppressingDiagnostics.md)
+* [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
+* [DIXOR001](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
+* [DIXOR002](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
+* [DIXOR003](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
+* [DIXOR010](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR010.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+
+---
 
 ### Internals
 
-- [UUIDv7 Specification](docs/internals/Uuid7Specification.md)
-- [Byte Layout](docs/internals/ByteLayout.md)
-- [Design Decisions](docs/internals/DesignDecisions.md)
+* [UUIDv7 Specification](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
+* [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)
+* [Design Decisions](https://github.com/DishantSave/Dixor/blob/main/docs/internals/DesignDecisions.md)
+
+---
 
 ### Examples
 
-- [Basic Usage](docs/examples/BasicUsageExamples.md)
-- [Batch Generation](docs/examples/BatchGenerationExamples.md)
-- [Sequential Identifiers](docs/examples/SequentialIdentifiersExamples.md)
+* [Basic Usage](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
+* [Batch Generation Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BatchGenerationExamples.md)
+* [Sequential Identifier Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/SequentialIdentifiersExamples.md)
+
+---
+
+## Additional Information
+
+* [Architecture](https://github.com/DishantSave/Dixor/blob/main/docs/Architecture.md)
+* [Roadmap](https://github.com/DishantSave/Dixor/blob/main/docs/Roadmap.md)
+* [Changelog](https://github.com/DishantSave/Dixor/blob/main/docs/Changelog.md)

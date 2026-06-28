@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Analyzers Overview](./Analyzers_Overview.md)
+> **Section:** [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
@@ -157,15 +157,15 @@ no suppression is required because no diagnostic will be reported.
 
 # Related Documentation
 
-* [Analyzers Overview](./Analyzers_Overview.md)
-* [DIXOR002 - Prefix Exceeds Maximum Length](./DIXOR002.md)
-* [Suppressing Diagnostics](./SuppressingDiagnostics.md)
-* [Batch Generation](../uuid7/UUID7_BatchGeneration.md)
+* [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
+* [DIXOR002 - Prefix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Analyzers Overview](./Analyzers_Overview.md)
+⬅ Previous: [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
-➡ Next: [DIXOR002 - Prefix Exceeds Maximum Length](./DIXOR002.md)
+➡ Next: [DIXOR002 - Prefix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)

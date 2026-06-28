@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Analyzers](./Analyzers_Overview.md)
+> **Section:** [Analyzers](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
@@ -453,16 +453,16 @@ Because the analyzers are included automatically with the package, developers be
 
 ## Analyzer Diagnostics
 
-* [DIXOR001 - Invalid Batch Size](./DIXOR001.md)
-* [DIXOR002 - Prefix Exceeds Maximum Length](./DIXOR002.md)
-* [DIXOR003 - Suffix Exceeds Maximum Length](./DIXOR003.md)
-* [DIXOR010 - Invalid Separator](./DIXOR010.md)
+* [DIXOR001 - Invalid Batch Size](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
+* [DIXOR002 - Prefix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
+* [DIXOR003 - Suffix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
+* [DIXOR010 - Invalid Separator](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR010.md)
 
 ## Additional Documentation
 
-* [Suppressing Diagnostics](./SuppressingDiagnostics.md)
-* [Installation Guide](../getting-started/Installation.md)
-* [Quick Start](../getting-started/QuickStart.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+* [Installation Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
+* [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
 
 ---
 
@@ -470,4 +470,4 @@ Because the analyzers are included automatically with the package, developers be
 
 ⬅ Previous: [README](../../README.md)
 
-➡ Next: [DIXOR001 - Invalid Batch Size](./DIXOR001.md)
+➡ Next: [DIXOR001 - Invalid Batch Size](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)

@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Analyzers Overview](./Analyzers_Overview.md)
+> **Section:** [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
@@ -162,16 +162,16 @@ Suppression may be appropriate when integrating with legacy systems that require
 
 # Related Documentation
 
-* [UUID7 Formatting](../uuid7/UUID7_Formatting.md)
-* [DIXOR001 - Invalid Batch Size](./DIXOR001.md)
-* [DIXOR003 - Suffix Exceeds Maximum Length](./DIXOR003.md)
-* [Suppressing Diagnostics](./SuppressingDiagnostics.md)
-* [Analyzers Overview](./Analyzers_Overview.md)
+* [UUID7 Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [DIXOR001 - Invalid Batch Size](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
+* [DIXOR003 - Suffix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+* [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [DIXOR001 - Invalid Batch Size](./DIXOR001.md)
+⬅ Previous: [DIXOR001 - Invalid Batch Size](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
 
-➡ Next: [DIXOR003 - Suffix Exceeds Maximum Length](./DIXOR003.md)
+➡ Next: [DIXOR003 - Suffix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)

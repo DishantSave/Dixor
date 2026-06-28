@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Examples](./BasicUsageExamples.md)
+> **Section:** [Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
 
 ---
 
@@ -261,15 +261,15 @@ Console.WriteLine($"Created At: {timestamp}");
 
 # Related Documentation
 
-* [Quick Start](../getting-started/QuickStart.md)
-* [UUID Generation](../uuid7/UUID7_Generation.md)
-* [Batch Generation Examples](./BatchGenerationExamples.md)
-* [Sequential Identifier Examples](./SequentialIdentifiersExamples.md)
+* [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Batch Generation Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BatchGenerationExamples.md)
+* [Sequential Identifier Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/SequentialIdentifiersExamples.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [UUIDv7 Best Practices](../uuid7/UUID7_BestPractices.md)
+⬅ Previous: [UUIDv7 Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 
-➡ Next: [Batch Generation Examples](./BatchGenerationExamples.md)
+➡ Next: [Batch Generation Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BatchGenerationExamples.md)

@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -351,19 +351,19 @@ Dixor.Identity provides a complete, high-performance and developer-friendly impl
 
 # Related Documentation
 
-* [UUID Generation](./UUID7_Generation.md)
-* [Monotonic Generation](./UUID7_MonotonicGeneration.md)
-* [Batch Generation](./UUID7_BatchGeneration.md)
-* [Formatting](./UUID7_Formatting.md)
-* [Validation](./UUID7_Validation.md)
-* [Parsing](./UUID7_Parsing.md)
-* [Timestamp Extraction](./UUID7_TimestampExtraction.md)
-* [Best Practices](./UUID7_BestPractices.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
+* [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
+* [Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Migration Guide](../getting-started/MigrationGuide.md)
+⬅ Previous: [Migration Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/MigrationGuide.md)
 
-➡ Next: [UUID Generation](./UUID7_Generation.md)
+➡ Next: [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)

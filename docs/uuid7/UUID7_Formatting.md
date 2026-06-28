@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -901,16 +901,16 @@ Formatting helps bridge the gap between technical identifiers and real-world bus
 
 # Related Documentation
 
-* [Batch Generation](./UUID7_BatchGeneration.md)
-* [Validation](./UUID7_Validation.md)
-* [DIXOR002](../analyzers/DIXOR002.md)
-* [DIXOR003](../analyzers/DIXOR003.md)
-* [DIXOR010](../analyzers/DIXOR010.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
+* [DIXOR002](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
+* [DIXOR003](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
+* [DIXOR010](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR010.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Batch Generation](./UUID7_BatchGeneration.md)
+⬅ Previous: [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
 
-➡ Next: [Validation](./UUID7_Validation.md)
+➡ Next: [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)

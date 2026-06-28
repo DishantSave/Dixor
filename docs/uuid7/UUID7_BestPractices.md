@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -390,16 +390,16 @@ Adhering to these practices ensures robust, scalable and high-performance applic
 
 # Related Documentation
 
-* [UUIDv7 Overview](./UUID7_Overview.md)
-* [Generation](./UUID7_Generation.md)
-* [Monotonic Generation](./UUID7_MonotonicGeneration.md)
-* [Timestamp Extraction](./UUID7_TimestampExtraction.md)
-* [Examples](../examples/BasicUsageExamples.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
+* [Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Timestamp Extraction](./UUID7_TimestampExtraction.md)
+⬅ Previous: [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
 
-➡ Next: [Basic Usage Examples](../examples/BasicUsageExamples.md)
+➡ Next: [Basic Usage Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)

@@ -39,7 +39,7 @@ internal static class Uuid7MonotonicGenerator
     /// <summary>
     /// Synchronizes access to the generator state.
     /// </summary>
-    private static readonly Lock Lock = new();
+    private static readonly object _lock = new();
 
     /// <summary>
     /// Stores the Unix timestamp, expressed in milliseconds,
@@ -90,7 +90,7 @@ internal static class Uuid7MonotonicGenerator
     /// </remarks>
     public static Guid Generate()
     {
-        lock (Lock)
+        lock (_lock)
         {
             // Obtain the current Unix timestamp in milliseconds.
             long currentTimestamp =

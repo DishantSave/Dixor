@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Examples](./BasicUsageExamples.md)
+> **Section:** [Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
 
 ---
 
@@ -200,15 +200,15 @@ at compile time.
 
 # Related Documentation
 
-* [Basic Usage Examples](./BasicUsageExamples.md)
-* [UUID Batch Generation](../uuid7/UUID7_BatchGeneration.md)
-* [Sequential Identifier Examples](./SequentialIdentifiersExamples.md)
-* [DIXOR001](../analyzers/DIXOR001.md)
+* [Basic Usage Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
+* [UUID Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Sequential Identifier Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/SequentialIdentifiersExamples.md)
+* [DIXOR001](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Basic Usage Examples](./BasicUsageExamples.md)
+⬅ Previous: [Basic Usage Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
 
-➡ Next: [Sequential Identifier Examples](./SequentialIdentifiersExamples.md)
+➡ Next: [Sequential Identifier Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/SequentialIdentifiersExamples.md)

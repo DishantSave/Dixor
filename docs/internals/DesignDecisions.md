@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Internals](./Uuid7Specification.md)
+> **Section:** [Internals](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
 
 ---
 
@@ -263,15 +263,15 @@ Future features should:
 
 # Related Documentation
 
-* [UUIDv7 Specification](./Uuid7Specification.md)
-* [Byte Layout](./ByteLayout.md)
-* [UUIDv7 Best Practices](../uuid7/UUID7_BestPractices.md)
+* [UUIDv7 Specification](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
+* [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)
+* [UUIDv7 Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 * [Architecture](../../Architecture.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Byte Layout](./ByteLayout.md)
+⬅ Previous: [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)
 
 ➡ Next: [README](../../README.md)

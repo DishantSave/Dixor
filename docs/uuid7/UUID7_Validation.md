@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -803,14 +803,14 @@ Validation is a fundamental building block for safely using advanced UUIDv7 capa
 
 # Related Documentation
 
-* [Formatting](./UUID7_Formatting.md)
-* [Parsing](./UUID7_Parsing.md)
-* [Timestamp Extraction](./UUID7_TimestampExtraction.md)
+* [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Formatting](./UUID7_Formatting.md)
+⬅ Previous: [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
 
-➡ Next: [Parsing](./UUID7_Parsing.md)
+➡ Next: [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)

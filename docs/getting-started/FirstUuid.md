@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Getting Started](./QuickStart.md)
+> **Section:** [Getting Started](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
 
 ---
 
@@ -230,16 +230,16 @@ You are now ready to begin using UUIDv7 in real applications.
 
 # Related Documentation
 
-* [Installation](./Installation.md)
-* [Quick Start](./QuickStart.md)
-* [Migration Guide](./MigrationGuide.md)
-* [UUIDv7 Overview](../uuid7/UUID7_Overview.md)
-* [UUID Generation](../uuid7/UUID7_Generation.md)
+* [Installation](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
+* [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
+* [Migration Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/MigrationGuide.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Quick Start](./QuickStart.md)
+⬅ Previous: [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
 
-➡ Next: [Migration Guide](./MigrationGuide.md)
+➡ Next: [Migration Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/MigrationGuide.md)

@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Internals](./Uuid7Specification.md)
+> **Section:** [Internals](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
 
 ---
 
@@ -211,15 +211,15 @@ However, collision probability is negligible for practical applications.
 
 # Related Documentation
 
-* [UUIDv7 Overview](../uuid7/UUID7_Overview.md)
-* [Byte Layout](./ByteLayout.md)
-* [Design Decisions](./DesignDecisions.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)
+* [Design Decisions](https://github.com/DishantSave/Dixor/blob/main/docs/internals/DesignDecisions.md)
 * [RFC 9562](https://www.rfc-editor.org/rfc/rfc9562)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Sequential Identifier Examples](../examples/SequentialIdentifiersExamples.md)
+⬅ Previous: [Sequential Identifier Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/SequentialIdentifiersExamples.md)
 
-➡ Next: [Byte Layout](./ByteLayout.md)
+➡ Next: [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)

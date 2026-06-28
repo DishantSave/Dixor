@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Analyzers Overview](./Analyzers_Overview.md)
+> **Section:** [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
@@ -140,16 +140,16 @@ Suppression may be appropriate for compatibility with external systems.
 
 # Related Documentation
 
-* [UUID7 Formatting](../uuid7/UUID7_Formatting.md)
-* [DIXOR002 - Prefix Exceeds Maximum Length](./DIXOR002.md)
-* [DIXOR010 - Invalid Separator](./DIXOR010.md)
-* [Suppressing Diagnostics](./SuppressingDiagnostics.md)
-* [Analyzers Overview](./Analyzers_Overview.md)
+* [UUID7 Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [DIXOR002 - Prefix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
+* [DIXOR010 - Invalid Separator](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR010.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+* [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [DIXOR002 - Prefix Exceeds Maximum Length](./DIXOR002.md)
+⬅ Previous: [DIXOR002 - Prefix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR002.md)
 
-➡ Next: [DIXOR010 - Invalid Separator](./DIXOR010.md)
+➡ Next: [DIXOR010 - Invalid Separator](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR010.md)

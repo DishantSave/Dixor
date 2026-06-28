@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Analyzers Overview](./Analyzers_Overview.md)
+> **Section:** [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
@@ -202,15 +202,15 @@ Unsupported separators are rejected at runtime and therefore suppressing the dia
 
 # Related Documentation
 
-* [UUID7 Formatting](../uuid7/UUID7_Formatting.md)
-* [DIXOR003 - Suffix Exceeds Maximum Length](./DIXOR003.md)
-* [Suppressing Diagnostics](./SuppressingDiagnostics.md)
-* [Analyzers Overview](./Analyzers_Overview.md)
+* [UUID7 Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [DIXOR003 - Suffix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
+* [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)
+* [Analyzers Overview](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/Analyzers_Overview.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [DIXOR003 - Suffix Exceeds Maximum Length](./DIXOR003.md)
+⬅ Previous: [DIXOR003 - Suffix Exceeds Maximum Length](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR003.md)
 
-➡ Next: [Suppressing Diagnostics](./SuppressingDiagnostics.md)
+➡ Next: [Suppressing Diagnostics](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/SuppressingDiagnostics.md)

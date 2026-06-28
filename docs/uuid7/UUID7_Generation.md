@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -744,15 +744,15 @@ Dixor.Identity is designed to provide a modern, efficient, and standards-complia
 
 # Related Documentation
 
-* [UUIDv7 Overview](./UUID7_Overview.md)
-* [Monotonic Generation](./UUID7_MonotonicGeneration.md)
-* [Batch Generation](./UUID7_BatchGeneration.md)
-* [Formatting](./UUID7_Formatting.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [UUIDv7 Overview](./UUID7_Overview.md)
+⬅ Previous: [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
-➡ Next: [Monotonic Generation](./UUID7_MonotonicGeneration.md)
+➡ Next: [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)

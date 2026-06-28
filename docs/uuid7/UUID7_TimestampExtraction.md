@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -737,14 +737,14 @@ This functionality makes UUIDv7 significantly more powerful than traditional ran
 
 # Related Documentation
 
-* [Parsing](./UUID7_Parsing.md)
-* [Validation](./UUID7_Validation.md)
-* [Best Practices](./UUID7_BestPractices.md)
+* [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)
+* [Validation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Validation.md)
+* [Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Parsing](./UUID7_Parsing.md)
+⬅ Previous: [Parsing](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Parsing.md)
 
-➡ Next: [Best Practices](./UUID7_BestPractices.md)
+➡ Next: [Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)

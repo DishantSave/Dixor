@@ -7,6 +7,63 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.1.2] - 2026-06-28
+
+### Added
+
+#### Framework Support
+
+* Added support for **.NET 8**.
+* Added support for **.NET 9**.
+* Expanded multi-targeting support to improve compatibility across modern .NET applications.
+
+#### Documentation
+
+* Added comprehensive API documentation for the `Uuid7` public facade.
+* Added complete UUIDv7 conceptual documentation.
+* Added comprehensive Getting Started documentation.
+* Added extensive Examples documentation.
+* Added detailed Internals documentation.
+* Added complete Roslyn Analyzer documentation.
+* Added navigation links across all documentation sections.
+* Added parent-child navigation hierarchy throughout the documentation.
+* Added cross-referenced documentation structure for improved discoverability.
+* Added detailed RFC 9562 overview and UUID comparison documentation to the package README.
+
+### Changed
+
+#### Documentation
+
+* Reorganized the entire documentation structure.
+* Improved documentation discoverability and navigation.
+* Updated README to serve as the central documentation hub.
+* Enhanced README with detailed UUIDv7 explanations and RFC 9562 references.
+* Improved documentation consistency across all sections.
+* Improved documentation accessibility for both GitHub and NuGet consumers.
+
+#### Package
+
+* Improved NuGet package documentation experience.
+* Improved package metadata and documentation integration.
+* Enhanced overall developer onboarding experience.
+
+### Fixed
+
+#### Documentation
+
+* Fixed broken documentation navigation links.
+* Fixed cross-document navigation issues in GitHub.
+* Fixed NuGet documentation link resolution issues.
+* Fixed README navigation inconsistencies.
+* Fixed documentation hierarchy and parent navigation structure.
+
+#### Compatibility
+
+* Fixed package compatibility limitations by extending support beyond .NET 10.
+* Resolved framework compatibility issues when consuming the package from .NET 8 and .NET 9 applications.
+
+---
+
 ## [0.1.1] - 2026-06-28
 
 ### Added

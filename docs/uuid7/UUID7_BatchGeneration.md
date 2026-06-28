@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -575,15 +575,15 @@ For applications generating large numbers of identifiers, batch generation offer
 
 # Related Documentation
 
-* [UUID Generation](./UUID7_Generation.md)
-* [Monotonic Generation](./UUID7_MonotonicGeneration.md)
-* [Formatting](./UUID7_Formatting.md)
-* [DIXOR001](../analyzers/DIXOR001.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)
+* [DIXOR001](https://github.com/DishantSave/Dixor/blob/main/docs/analyzers/DIXOR001.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Monotonic Generation](./UUID7_MonotonicGeneration.md)
+⬅ Previous: [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
 
-➡ Next: [Formatting](./UUID7_Formatting.md)
+➡ Next: [Formatting](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Formatting.md)

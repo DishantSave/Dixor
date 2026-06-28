@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Internals](./Uuid7Specification.md)
+> **Section:** [Internals](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
 
 ---
 
@@ -313,15 +313,15 @@ Understanding the layout enables developers to:
 
 # Related Documentation
 
-* [UUIDv7 Specification](./Uuid7Specification.md)
-* [Design Decisions](./DesignDecisions.md)
-* [UUID Generation](../uuid7/UUID7_Generation.md)
-* [Timestamp Extraction](../uuid7/UUID7_TimestampExtraction.md)
+* [UUIDv7 Specification](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
+* [Design Decisions](https://github.com/DishantSave/Dixor/blob/main/docs/internals/DesignDecisions.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Timestamp Extraction](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_TimestampExtraction.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [UUIDv7 Specification](./Uuid7Specification.md)
+⬅ Previous: [UUIDv7 Specification](https://github.com/DishantSave/Dixor/blob/main/docs/internals/Uuid7Specification.md)
 
-➡ Next: [Design Decisions](./DesignDecisions.md)
+➡ Next: [Design Decisions](https://github.com/DishantSave/Dixor/blob/main/docs/internals/DesignDecisions.md)

@@ -1,11 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net10.0</TargetFramework>
+		<TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
 
 		<!-- Package Information -->
 		<PackageId>Dixor.Identity</PackageId>
-		<Version>0.1.1</Version>
+		<Version>0.1.2</Version>
 
 		<Title>Dixor.Identity</Title>
 
@@ -76,33 +76,21 @@
 	</PropertyGroup>
 
 	<!-- Analyzer Project -->
-	<ItemGroup>
-		<ProjectReference
-            Include="..\..\Dixor.Identity.Analyzers\Dixor.Identity.Analyzers.csproj"
-            PrivateAssets="all"
-            ReferenceOutputAssembly="false"
-            OutputItemType="Analyzer" />
-	</ItemGroup>
 
 	<!-- Package Files -->
 	<ItemGroup>
 
-		<None Include="..\..\README.md"
-              Pack="true"
-              PackagePath="\" />
+		<None Include="..\..\README.md" Pack="true" PackagePath="\" />
 
-		<None Include="..\..\assets\icon.png"
-              Pack="true"
-              PackagePath="\" />
+		<None Include="..\..\assets\icon.png" Pack="true" PackagePath="\" />
 
-		<None Include="..\..\Dixor.Identity.Analyzers\bin\$(Configuration)\netstandard2.0\Dixor.Identity.Analyzers.dll"
-              Pack="true"
-              PackagePath="analyzers/dotnet/cs" />
+		<None Include="..\..\analyzers\Dixor.Identity.Analyzers\bin\$(Configuration)\netstandard2.0\Dixor.Identity.Analyzers.dll" Pack="true" PackagePath="analyzers/dotnet/cs" />
 
-		<None Include="..\..\docs\**\*.md"
-			  Pack="true"
-			  PackagePath="docs/%(RecursiveDir)" />
+		<None Include="..\..\docs\**\*.md" Pack="true" PackagePath="docs/%(RecursiveDir)" />
 
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\..\analyzers\Dixor.Identity.Analyzers\Dixor.Identity.Analyzers.csproj" />
 	</ItemGroup>
 
 </Project>

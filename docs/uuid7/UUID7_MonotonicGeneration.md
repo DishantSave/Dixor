@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [UUIDv7 Overview](./UUID7_Overview.md)
+> **Section:** [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
@@ -767,14 +767,14 @@ Monotonic UUIDs are particularly valuable for high-throughput database applicati
 
 # Related Documentation
 
-* [UUID Generation](./UUID7_Generation.md)
-* [Batch Generation](./UUID7_BatchGeneration.md)
-* [Best Practices](./UUID7_BestPractices.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
+* [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)
+* [Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [UUID Generation](./UUID7_Generation.md)
+⬅ Previous: [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
 
-➡ Next: [Batch Generation](./UUID7_BatchGeneration.md)
+➡ Next: [Batch Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BatchGeneration.md)

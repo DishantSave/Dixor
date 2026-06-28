@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Getting Started](./QuickStart.md)
+> **Section:** [Getting Started](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
 
 ---
 
@@ -271,16 +271,16 @@ The result is improved database performance, chronological ordering and RFC 9562
 
 # Related Documentation
 
-* [Installation](./Installation.md)
-* [Quick Start](./QuickStart.md)
-* [Generate Your First UUID](./FirstUuid.md)
-* [UUIDv7 Overview](../uuid7/UUID7_Overview.md)
-* [UUID Generation](../uuid7/UUID7_Generation.md)
+* [Installation](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
+* [Quick Start](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
+* [Generate Your First UUID](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/FirstUuid.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
+* [UUID Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Generation.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Generate Your First UUID](./FirstUuid.md)
+⬅ Previous: [Generate Your First UUID](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/FirstUuid.md)
 
-➡ Next: [UUIDv7 Overview](../uuid7/UUID7_Overview.md)
+➡ Next: [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)

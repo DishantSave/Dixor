@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)
-> **Section:** [Examples](./BasicUsageExamples.md)
+> **Section:** [Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
 
 ---
 
@@ -188,15 +188,15 @@ Using UUIDv7 as sequential identifiers provides:
 
 # Related Documentation
 
-* [Basic Usage Examples](./BasicUsageExamples.md)
-* [Batch Generation Examples](./BatchGenerationExamples.md)
-* [Monotonic Generation](../uuid7/UUID7_MonotonicGeneration.md)
-* [UUIDv7 Best Practices](../uuid7/UUID7_BestPractices.md)
+* [Basic Usage Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BasicUsageExamples.md)
+* [Batch Generation Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BatchGenerationExamples.md)
+* [Monotonic Generation](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_MonotonicGeneration.md)
+* [UUIDv7 Best Practices](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_BestPractices.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Batch Generation Examples](./BatchGenerationExamples.md)
+⬅ Previous: [Batch Generation Examples](https://github.com/DishantSave/Dixor/blob/main/docs/examples/BatchGenerationExamples.md)
 
-➡ Next: [Byte Layout](../internals/ByteLayout.md)
+➡ Next: [Byte Layout](https://github.com/DishantSave/Dixor/blob/main/docs/internals/ByteLayout.md)

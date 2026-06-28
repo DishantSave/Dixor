@@ -3,7 +3,7 @@
 > 📚 Documentation Navigation
 >
 > **Home:** [README.md](../../README.md)  
-> **Section:** [Getting Started](./QuickStart.md)
+> **Section:** [Getting Started](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/QuickStart.md)
 
 ---
 
@@ -207,15 +207,15 @@ You are ready to start building applications with Dixor.Identity.
 
 # Related Documentation
 
-* [Installation](./Installation.md)
-* [Generate Your First UUID](./FirstUuid.md)
-* [Migration Guide](./MigrationGuide.md)
-* [UUIDv7 Overview](../uuid7/UUID7_Overview.md)
+* [Installation](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
+* [Generate Your First UUID](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/FirstUuid.md)
+* [Migration Guide](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/MigrationGuide.md)
+* [UUIDv7 Overview](https://github.com/DishantSave/Dixor/blob/main/docs/uuid7/UUID7_Overview.md)
 
 ---
 
 ## Navigation
 
-⬅ Previous: [Installation](./Installation.md)
+⬅ Previous: [Installation](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/Installation.md)
 
-➡ Next: [Generate Your First UUID](./FirstUuid.md)
+➡ Next: [Generate Your First UUID](https://github.com/DishantSave/Dixor/blob/main/docs/getting-started/FirstUuid.md)
